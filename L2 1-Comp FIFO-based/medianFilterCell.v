@@ -1,18 +1,4 @@
-																															 //-----------------------------------------------------------------------------
-//
-// Title       : medianCell1st
-// Design      : median2
-// Author      : Eesa Nikahd
-// Company     : nik
-//
-//-----------------------------------------------------------------------------
-//
-// File        : medianCell.v
-// Generated   : Sun Aug 17 23:35:19 2008
-// From        : interface description file
-// By          : Itf2Vhdl ver. 1.21
-//
-//-----------------------------------------------------------------------------
+
 //
 // Description :
 //				inputs and outputs  :
