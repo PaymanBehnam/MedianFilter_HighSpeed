@@ -1,5 +1,4 @@
-#Eesa Nikahd 12/01/1393
-#script program to create a txt file for my topModule
+
 import math
 print("median filter\nby Eesa Nikahd\n")
 W = input ("enter maximum size of the window:")
