@@ -1,5 +1,4 @@
-#Eesa Nikahd 28/5/1389
-#script program to create a txt file for my topModule
+
 import math
 W = input ("enter size of  window :")
 dataLen = input ("enter data length (per bit):")
