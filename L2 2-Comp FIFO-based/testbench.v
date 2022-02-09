@@ -1,26 +1,4 @@
-`timescale 1ns / 1ns
 
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   19:48:01 07/03/2009
-// Design Name:   top
-// Module Name:   E:/bs/BSc Project/Nikahd project(Last Version)/Nikahd project(Last Version)/FixedMedianFilter/testBench.v
-// Project Name:  FixedMedianFilter
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: top
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-////////////////////////////////////////////////////////////////////////////////
 `timescale 1ns / 1ps
 `include "macro.vh"
 
