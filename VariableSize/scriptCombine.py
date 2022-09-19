@@ -1,6 +1,5 @@
 
 import math
-print("median filter\nby Eesa Nikahd\n")
 W = input ("enter maximum size of the window:")
 dataLen = input ("enter data length (per bit):")
 
