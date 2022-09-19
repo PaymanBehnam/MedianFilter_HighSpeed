@@ -1,6 +1,5 @@
 #script program to create a txt file for my topModule
 import math
-print("median filter\nby Eesa Nikahd\n")
 W = input ("enter size of  window :")
 dataLen = input ("enter data length (per bit):")
 
